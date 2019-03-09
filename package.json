@@ -13,6 +13,7 @@
     "jade": "~1.3.0",
     "mongoose": "^5.4.12",
     "morgan": "~1.0.0",
+    "mysql": "^2.16.0",
     "nodemon": "^1.18.10",
     "static-favicon": "~1.0.0"
   }
